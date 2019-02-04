@@ -36,8 +36,6 @@ We do have a [Code of conduct](code_of_conduct.md). Make sure to check it out be
 
 Please [open an issue on GitHub](https://github.com/TheHive-Project/TheHive4go/issues/new) if you'd like to report a bug or request a feature. We are also available on [Gitter](https://gitter.im/TheHive-Project/TheHive) to help you out.
 
-If you need to contact the project team, send an email to <support@thehive-project.org>.
-
 # Community Discussions
 
 We have set up a Google forum at <https://groups.google.com/a/thehive-project.org/d/forum/users>. To request access, you need a Google account. You may create one [using a Gmail address](https://accounts.google.com/SignUp?hl=en) or [without one](https://accounts.google.com/SignUpWithoutGmail?hl=en).
